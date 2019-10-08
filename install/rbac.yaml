@@ -32,7 +32,7 @@ rules:
   - apiGroups:
       - ""
     resources:
-      - deployment
+      - deployments
       - namespaces
       - secrets
     verbs:
